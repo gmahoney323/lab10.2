@@ -1,4 +1,7 @@
-
+//earth_utils.cpp
+//author: Devin Paden
+//edited by: Grant Mahoney
+//date: 11/11/2020
 
 #include "earth_utils.h"
 #include <iostream>
