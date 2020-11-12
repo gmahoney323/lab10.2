@@ -1,0 +1,30 @@
+Wed Nov 11 21:41:14 2020 joe main[7068]: The kmlfile is: mykmlfile.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 21:44:18 2020 joe main[7091]: The kmlfile is: mykmlfile.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 22:04:43 2020 joe main[7603]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 22:06:04 2020 joe main[7652]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 22:14:53 2020 joe main[7818]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 22:18:11 2020 joe main[7934]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 22:20:57 2020 joe main[7974]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 22:48:25 2020 joe main[8892]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 22:51:59 2020 joe main[8979]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 23:01:28 2020 joe main[9255]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 23:03:09 2020 joe main[9300]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 23:04:07 2020 joe main[9330]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 23:09:45 2020 joe main[10169]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 23:13:16 2020 joe main[10951]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
+Wed Nov 11 23:25:41 2020 joe main[11312]: The kmlfile is: concap.csv and logfile is:mylogfile.txt
+
